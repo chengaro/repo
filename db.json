@@ -1,8 +1,12 @@
 {
-  "posts": [
+  "data": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "first hello"
+    },
+    {
+      "id": 2,
+      "title": "second hello"
     }
   ],
   "profile": {
